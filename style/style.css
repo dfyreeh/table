@@ -1,0 +1,27 @@
+
+
+table, tr, th, td{
+    border: 1px solid rgb(123, 123, 123);
+    border-collapse: collapse;
+     
+}
+
+td{
+    width: 50px;
+    height: 15px;
+}
+
+.bloc-1{
+    background: yellow;
+}
+
+.bloc-2{
+    background: black;
+}
+
+.bloc-3{
+    background: #edac9d;
+}
+.bloc-4{
+    background: #146017;
+}
